@@ -1,4 +1,6 @@
-# GPT as a Pair Programming Tool
+# GPT as a Better Programmer than me
+
+Paul Chu was here.
 
 Welcome to the GitHub repository for our tech talk on utilizing GPT (Generative Pretrained Transformer) as a pair programming tool. This repository contains resources, examples, and guides on how to effectively integrate GPT into your programming workflow to enhance productivity, creativity, and efficiency.
 
